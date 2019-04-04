@@ -1,5 +1,6 @@
 {
-    "users": [
-        { "id": 1, "firstName": "John", "lastName": "Doe" }
+    "items": [
+        { "id": 1, "name": "Process 1",  "weight": 2 },
+        { "id": 2, "name": "Process 1", "weight": 5 }
     ]
 }
